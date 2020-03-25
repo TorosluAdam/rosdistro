@@ -1360,7 +1360,7 @@ python-empy:
       packages: [empy]
   arch: [python2-empy]
   debian: [python-empy]
-  fedora: [python-empy]
+  fedora: [python3-empy]
   freebsd: [py27-empy]
   gentoo: [dev-python/empy]
   macports: [py27-empy]
