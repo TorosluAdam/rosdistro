@@ -930,6 +930,7 @@ gazebo9:
   debian:
     buster: [gazebo9]
     stretch: [gazebo9]
+  fedora: [gazebo]
   gentoo: [sci-electronics/gazebo]
   openembedded: []
   ubuntu:
