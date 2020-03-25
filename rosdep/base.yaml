@@ -931,7 +931,7 @@ gazebo9:
     buster: [gazebo9]
     stretch: [gazebo9]
   fedora:
-    '30': [gazebo]
+    '31': [gazebo]
   gentoo: [sci-electronics/gazebo]
   openembedded: []
   ubuntu:
