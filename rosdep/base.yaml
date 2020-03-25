@@ -895,7 +895,7 @@ gazebo:
     buster: [gazebo9]
     jessie: [gazebo7]
     stretch: [gazebo9]
-  fedora: [gazebo9]
+  fedora: [gazebo]
   gentoo: [sci-electronics/gazebo]
   slackware: [gazebo]
   ubuntu:
@@ -930,8 +930,6 @@ gazebo9:
   debian:
     buster: [gazebo9]
     stretch: [gazebo9]
-  fedora:
-    '31': [gazebo9]
   gentoo: [sci-electronics/gazebo]
   openembedded: []
   ubuntu:
