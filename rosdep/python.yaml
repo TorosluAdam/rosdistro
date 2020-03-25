@@ -2701,6 +2701,7 @@ python-omniorb:
 python-opencv:
   arch: [opencv, python2-numpy]
   debian: [python-opencv]
+  fedora: [python3-opencv]
   freebsd: [py27-opencv]
   gentoo: ['media-libs/opencv[python]']
   openembedded: [opencv@meta-oe]
