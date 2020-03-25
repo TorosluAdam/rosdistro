@@ -895,7 +895,7 @@ gazebo:
     buster: [gazebo9]
     jessie: [gazebo7]
     stretch: [gazebo9]
-  fedora: [gazebo]
+  fedora: [gazebo9]
   gentoo: [sci-electronics/gazebo]
   slackware: [gazebo]
   ubuntu:
