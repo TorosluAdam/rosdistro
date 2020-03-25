@@ -2704,6 +2704,7 @@ python-opencv:
   fedora:
     '*': null
     '29': [opencv-python]
+    '31':[opencv-python]
   freebsd: [py27-opencv]
   gentoo: ['media-libs/opencv[python]']
   openembedded: [opencv@meta-oe]
