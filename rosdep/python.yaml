@@ -2703,7 +2703,7 @@ python-opencv:
   debian: [python-opencv]
   fedora:
     '*': null
-    '31': [opencv-python]
+    '31': [python3-opencv]
   freebsd: [py27-opencv]
   gentoo: ['media-libs/opencv[python]']
   openembedded: [opencv@meta-oe]
